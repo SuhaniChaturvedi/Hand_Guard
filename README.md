@@ -60,7 +60,7 @@ HandGuard enables people to **ask for help silently**, without needing to speak,
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/SuhaniChaturvedi/HandGuard.git
+git clone https://github.com/SuhaniChaturvedi/Hand_Guard.git
 cd HandGuard
 python3 -m venv venv
 source venv/bin/activate
